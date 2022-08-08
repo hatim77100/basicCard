@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+}
+
+.carte-image{
+    width: 70%;
+    height: auto;
+    border: 1px solid #333;
+    background: #f1f1f1;
+}
+.bloc-image {
+    height: 70%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.carte-image h3 {
+    padding: 10px;
+}
+
+.carte-image p {
+    padding: 0px 10px 10px 10px;
+}
+
+.carte-image hr {
+    margin-bottom: 15px;
+}
+
+.carte-image a {
+    padding: 0px 10px;
+    color: rgb(104, 99, 99);
+    text-decoration: none;
+}
